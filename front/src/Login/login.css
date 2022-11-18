@@ -1,0 +1,41 @@
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    /* backgound-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg"); */
+  /*  */
+}
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+    }
+
+     /* Style the counter cards */
+  .card{
+    box-shadow: 0 4px 8px 0  rgba(9, 201, 92, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: rgb(7, 7, 104);
+  
+    width:90%;
+  }
+  /* .img{
+    background-image:("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg") 
+  } */
+  .cube{
+    /* background-color:pink;
+    width: 200%;
+      height: 50%;
+      padding: 10px;
+      border-radius: 20%;  */
+      box-shadow: 0 4px 8px 0  rgba(9, 201, 92, 0.2);
+      padding: 16px;
+      text-align: center;
+      background-color: rgb(7, 7, 104);
+    
+      width:90%;
+  }
